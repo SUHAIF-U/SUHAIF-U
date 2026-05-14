@@ -63,6 +63,7 @@ Forecasting urban taxi demand using Time Series and Feature Engineering.
 - 💼 LinkedIn: https://linkedin.com/in/MohammedSuhaifU
 - 🐙 GitHub: https://github.com/mohammedsuhaif
 - 📧 Email: mohammedsuhaif204@gmail.com
+- 🔥 Portfolio: https://suhaif.vercel.app
 
 ---
 
